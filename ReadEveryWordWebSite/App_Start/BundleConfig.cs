@@ -25,7 +25,12 @@ namespace ReadEveryWordWebSite
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
-                      "~/Content/site.css"));
+                      "~/Content/site.css",
+                      "~/Content/readEveryWordWebSite.css",
+                      "~/Content/navbar.css",
+                      "~/Content/splash.css"                      
+
+                      ));
 
             // Set EnableOptimizations to false for debugging. For more information,
             // visit http://go.microsoft.com/fwlink/?LinkId=301862
