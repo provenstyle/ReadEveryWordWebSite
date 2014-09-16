@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace ReadEveryWordWebSite.Controllers
 {
-    public class ContactController : Controller
+    public class SupportController : Controller
     {
         // GET: Contact
         public ActionResult Index()
