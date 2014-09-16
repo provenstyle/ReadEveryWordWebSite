@@ -50,3 +50,7 @@
 .navbar .container {
     margin-top: 20px;
 }
+
+.navbar .glyphicon {
+    padding-right: 6px;
+}
